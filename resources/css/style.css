@@ -1,7 +1,9 @@
 body{
   font-family: sans-serif;
-  background-color: black;
-  color: lightblue;
+  background-image: url("./rick&morty.jpg");
+  background-repeat: no-repeat;
+  color: #c7f6f7;
+  text-align: center;
 }
 
 h1{
